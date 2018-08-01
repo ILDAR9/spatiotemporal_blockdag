@@ -1,1 +1,1 @@
-# spatiotemporal_blockdag
+Enabling blockchain for spatio-temporal queries
